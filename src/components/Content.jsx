@@ -3,7 +3,7 @@ import content from "../assets/images/png/content_laptop.webp";
 function Content() {
   return (
     <>
-      <div className=" bg-black mt_neg_2 overflow-x-hidden ">
+      <div className=" bg-black mt_neg_2   ">
         <div className="container-2">
           <div className="content_bg_image_box position-relative">
             <div className="row">
@@ -26,7 +26,7 @@ function Content() {
               <div className="col-md-6 col-12 pt-3 pt-sm-4 pt-md-0">
                 <div className="  laptop_pos">
                   <img
-                    data-aos="zoom-out-down"
+                   
                     className=" w-100 "
                     src={content}
                     alt="content"
