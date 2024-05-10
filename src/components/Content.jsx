@@ -3,7 +3,7 @@ import content from "../assets/images/png/content_laptop.webp";
 function Content() {
   return (
     <>
-      <div className=" bg-black mt_neg_2">
+      <div className=" bg-black mt_neg_2 overflow-x-hidden ">
         <div className="container-2">
           <div className="content_bg_image_box position-relative">
             <div className="row">

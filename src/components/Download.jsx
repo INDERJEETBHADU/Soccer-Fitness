@@ -5,7 +5,7 @@ import download_right_ellipse from "../assets/images/svg/right_ellipse_download.
 function Download() {
   return (
     <>
-      <div className=" bg-black mt_neg_2 download_sec_padding position-relative">
+      <div className=" bg-black overflow-hidden mt_neg_2 download_sec_padding position-relative">
         <div className="container-2">
           <div className=" d-flex justify-content-center">
             <div
