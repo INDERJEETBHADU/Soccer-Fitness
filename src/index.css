@@ -17,7 +17,7 @@
   --color-yellow: #fce500;
   --color-grey: #f2f2f3;
   --color-darkgrey: #999999;
-  --color-lightgrey:#B7B7B7;
+  --color-lightgrey: #B7B7B7;
 }
 
 .container-2 {
@@ -27,7 +27,8 @@
   padding-left: 12px;
   padding-right: 12px;
 }
-.color-lightgrey{
+
+.color-lightgrey {
   color: var(--color-lightgrey);
 }
 
@@ -76,11 +77,11 @@
 }
 
 .lh-59 {
-  line-height: 35.4px;
+  line-height: 30.4px;
 }
 
 .lh-62 {
-  line-height: 38.04px;
+  line-height: 35.04px;
 }
 
 .lh-28 {
@@ -96,7 +97,7 @@
 }
 
 .lh-49 {
-  line-height: 49.65px;
+  line-height: 33.65px;
 }
 
 .lh-33 {
