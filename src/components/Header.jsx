@@ -12,9 +12,9 @@ function Header() {
             <div className="col-md-7  col-12 d-flex align-items-center">
               <div className="">
                 <h3 className=" mb-0 ff-euro  fw-bold  text-45 lh-59 color-grey">
-                  Get The eBook That Reveals{" "}
+                  Get The eBook That Reveals The
                   <span className=" color-yellow text-47 lh-62">
-                    The 7 Fitness Myths
+                    7 Fitness Myths
                   </span>{" "}
                   That{" "}
                   <span className=" text_nowrap">Are Holding You Back</span>{" "}
